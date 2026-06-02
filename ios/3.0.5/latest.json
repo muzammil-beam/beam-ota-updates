@@ -1,9 +1,9 @@
 {
-  "version": 1780401703,
-  "url": "https://github.com/muzammil-beam/beam-ota-updates/releases/download/ota-ios-3.0.5-1780401703/bundle.zip",
-  "hash": "sha256:9860f4daee2daf5c8c2d6d09958d3b5d06b9165e4a4fde1329bb1a5fc77832a2",
+  "version": 1780416246,
+  "url": "https://github.com/muzammil-beam/beam-ota-updates/releases/download/ota-ios-3.0.5-1780416246/bundle.zip",
+  "hash": "sha256:79a2bf9c99716c0687ddb440f94ff1e61361b5b06413e1cc5e2db0ba264b3a83",
   "nativeVersion": "3.0.5",
   "mandatory": false,
-  "publishedAt": "2026-06-02T12:01:48.456Z",
-  "displayVersion": "3.0.5-0386521-1780401703"
+  "publishedAt": "2026-06-02T16:04:12.122Z",
+  "displayVersion": "3.0.5-0386521-1780416246"
 }
