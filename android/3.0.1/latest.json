@@ -1,9 +1,9 @@
 {
-  "version": 1785005244,
-  "url": "https://github.com/muzammil-beam/beam-ota-updates/releases/download/ota-android-3.0.1-1785005244/bundle.zip",
-  "hash": "sha256:5fcac22000dfc97022a6cf2d4de0bcba5105e3bcc8a7b0b88749b503eaaf3c7c",
+  "version": 1785156487,
+  "url": "https://github.com/muzammil-beam/beam-ota-updates/releases/download/ota-android-3.0.1-1785156487/bundle.zip",
+  "hash": "sha256:3fa1d4a70e1c66f4bd98b171570c90bc8f673fe37935154422968d1bde345148",
   "nativeVersion": "3.0.1",
   "mandatory": false,
-  "publishedAt": "2026-07-25T18:47:29.428Z",
-  "displayVersion": "3.0.1-ff62322-1785005244"
+  "publishedAt": "2026-07-27T12:48:12.397Z",
+  "displayVersion": "3.0.1-c3c85b1-1785156487"
 }
