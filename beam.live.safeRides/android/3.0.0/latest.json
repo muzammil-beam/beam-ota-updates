@@ -1,9 +1,9 @@
 {
-  "version": 1788882973,
-  "url": "https://github.com/muzammil-beam/beam-ota-updates/releases/download/ota-beam.live.safeRides-android-3.0.0-1788882973/bundle.zip",
-  "hash": "sha256:1bc1cc4bd4c0e73b95c174b7429392c153b611377afaf6bd08f02aaef5af6ee8",
+  "version": 1789044152,
+  "url": "https://github.com/muzammil-beam/beam-ota-updates/releases/download/ota-beam.live.safeRides-android-3.0.0-1789044152/bundle.zip",
+  "hash": "sha256:919dd0c47f316dde933448a8ee7730a1831668dddcdff7f2d0b99c89f5ebcb3d",
   "nativeVersion": "3.0.0",
   "mandatory": false,
-  "publishedAt": "2026-09-08T15:56:17.451Z",
-  "displayVersion": "3.0.0-0eeecf28-1788882973"
+  "publishedAt": "2026-09-10T12:42:37.285Z",
+  "displayVersion": "3.0.0-0eeecf28-1789044152"
 }
