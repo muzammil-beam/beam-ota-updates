@@ -1,9 +1,9 @@
 {
-  "version": 1788882935,
-  "url": "https://github.com/muzammil-beam/beam-ota-updates/releases/download/ota-beam.live.safe.ride.prod-ios-3.0.1-1788882935/bundle.zip",
-  "hash": "sha256:cc098f47c24fec62696f03742b0efd44ef6a1534c89bbfb3c3615bdb79c5d956",
+  "version": 1789044197,
+  "url": "https://github.com/muzammil-beam/beam-ota-updates/releases/download/ota-beam.live.safe.ride.prod-ios-3.0.1-1789044197/bundle.zip",
+  "hash": "sha256:6e7ee6f40ae487cee2c129fefb9f31fc8949311d92b816d4c3151c4cbfc33997",
   "nativeVersion": "3.0.1",
   "mandatory": false,
-  "publishedAt": "2026-09-08T15:55:39.235Z",
-  "displayVersion": "3.0.1-0eeecf28-1788882935"
+  "publishedAt": "2026-09-10T12:43:21.377Z",
+  "displayVersion": "3.0.1-0eeecf28-1789044197"
 }
