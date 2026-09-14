@@ -1,9 +1,9 @@
 {
-  "version": 1788885048,
-  "url": "https://github.com/muzammil-beam/beam-ota-updates/releases/download/ota-beam.live.ride-android-3.6.9-1788885048/bundle.zip",
-  "hash": "sha256:c12c57e0db23a07f74cd5ed6f554590c8eac2bfe0d3a9f2355dc78f859dfc6e2",
+  "version": 1789407983,
+  "url": "https://github.com/muzammil-beam/beam-ota-updates/releases/download/ota-beam.live.ride-android-3.6.9-1789407983/bundle.zip",
+  "hash": "sha256:96009c92574f1d968ce988b36f8166ebda875d7d309855c66eaf03136c3b7e7c",
   "nativeVersion": "3.6.9",
   "mandatory": false,
-  "publishedAt": "2026-09-08T16:30:53.259Z",
-  "displayVersion": "3.6.9-9a9bfa33-1788885048"
+  "publishedAt": "2026-09-14T17:46:28.991Z",
+  "displayVersion": "3.6.9-090febe0-1789407983"
 }
